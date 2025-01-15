@@ -21,6 +21,25 @@ header {
     width: 100%;
 }
 
+header a {
+    text-decoration: none;
+}
+
+h1 {
+    text-transform: uppercase;
+    letter-spacing: 2px;
+}
+
+#menu {
+    font-size: 100%;
+    letter-spacing: 4px;
+    list-style-type: none;
+}
+
+#menu > li {
+    margin-bottom: 1em;
+}
+
 /* Main */
 main {
     background-color: aqua;
