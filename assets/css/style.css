@@ -15,6 +15,10 @@ body {
 /* Header */
 header {
     background-color: green;
+    padding: 0 1rem;
+    position: fixed;
+    z-index: 99;
+    width: 100%;
 }
 
 /* Main */
