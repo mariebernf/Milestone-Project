@@ -46,6 +46,26 @@ main {
     flex: auto;
 }
 
+.flex-div {
+    width: 100%;
+    height: auto;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: none;
+    justify-content: space-evenly;
+}
+
+.flex-box {
+    width: 300px;
+    height: 300px;
+    background-color: yellow;
+    color: ;
+    text-align: center;
+    padding: 10px;
+    border-radius: 20px;
+    margin: 20px;
+}
+
 /* Footer */
 #social-media {
     text-align: center;
