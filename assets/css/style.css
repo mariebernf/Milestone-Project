@@ -101,7 +101,7 @@ button:hover {
 
 /* Main */
 main {
-    background-color: aqua;
+    background-color: #455d73;
     flex: 1 0 auto;
     width: 100%;
     display: flex;
