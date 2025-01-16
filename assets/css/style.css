@@ -59,7 +59,7 @@ main {
     width: 300px;
     height: 300px;
     background-color: yellow;
-    color: ;
+    color: pink;
     text-align: center;
     padding: 10px;
     border-radius: 20px;
@@ -109,6 +109,11 @@ main {
    main {
     /* Push main content down to accommodate larger code*/
     margin-top: 70px;
+   }
+
+   .my-image {
+        width: 300px;
+        height: 300px;
    }
 
    /* Large devices (Laptops and desktops, 992px and up) */
