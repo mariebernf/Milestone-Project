@@ -30,15 +30,57 @@ h1 {
     letter-spacing: 2px;
 }
 
+/* Form */
 form {
-   margin-top: 2rem; 
+   max-width: 300px;
+   padding: 20px;
 }
+
+/* Label */
+
+label {
+    display: block;
+    margin: 8px;
+    color: red;
+}
+
+/* Input */
+
+input {
+    width: 100%;
+    padding: 10px;
+    margin-top: 5%;
+    border: 1px;
+    border-radius: 5px;
+    font-size: 1rem;
+}
+
+/* Button */
+
+button {
+    width: 100%;
+    padding: 10px;
+    margin-top: 16%;
+    background-color: aqua;
+    font-size: 1rem;
+    cursor: pointer;
+}
+
+/* Button hover */
+
+button: hover {
+    background-color: green;
+}
+
+/* Menu */
 
 #menu {
     font-size: 100%;
     letter-spacing: 4px;
     list-style-type: none;
 }
+
+/* Menu list */
 
 #menu > li {
     margin-bottom: 1em;
