@@ -51,7 +51,7 @@ main {
     height: auto;
     display: flex;
     flex-direction: row;
-    flex-wrap: none;
+    flex-wrap: wrap;
     justify-content: space-evenly;
 }
 
@@ -64,6 +64,11 @@ main {
     padding: 10px;
     border-radius: 20px;
     margin: 20px;
+}
+
+.flex-box .my-image {
+    width: 100%;
+    height: 100%
 }
 
 /* Footer */
@@ -111,10 +116,7 @@ main {
     margin-top: 70px;
    }
 
-   .my-image {
-        width: 300px;
-        height: 300px;
-   }
+   
 
    /* Large devices (Laptops and desktops, 992px and up) */
    @media screen and (min-width: 992px) {
