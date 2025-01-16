@@ -30,6 +30,10 @@ h1 {
     letter-spacing: 2px;
 }
 
+form {
+   margin-top: 2rem; 
+}
+
 #menu {
     font-size: 100%;
     letter-spacing: 4px;
