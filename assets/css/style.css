@@ -80,7 +80,7 @@ button {
 
 /* Button hover */
 
-button: hover {
+button:hover {
     background-color: green;
 }
 
