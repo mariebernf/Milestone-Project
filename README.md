@@ -19,13 +19,28 @@ Color Scheme:
   
 These three colors work well together to provide a visually applealing website. The website remains user-friendly and professional.
 
-Typography 
+Typography:
+
+![Lato font](assets/css/Documentation/latofont.jpg)
+
+* For the font of the body, Lato font was used. Lato is good choice for the main text in a webpage because it is easy to read and looks professional.
+
+![Smooch sans](assets/css/Documentation/smoochsans.jpg)
+
+* For the logo Smooch sans font was used. Smooch sans is easy to read and looks friendly.
+  
+* The combination of both fonts used on the website ensures that it is both user-friendly and engaging. 
+
+  
+
 
 
 
 
 
 # Wireframes
+
+![Wireframe](assets/css/Documentation/wireframe.png)
 
 # Deployment
 
