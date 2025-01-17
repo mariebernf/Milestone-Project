@@ -1,6 +1,6 @@
 /* Google fonts */
-<style>@import url('https://fonts.googleapis.com/css2?family=Niconne&display=swap');
-</style>
+@import url('https://fonts.googleapis.com/css2?family=Smooch+Sans:wght@300&display=swap');
+
 
 /* Asterisk Wildcard selector */
 * {
@@ -191,12 +191,12 @@ main {
     }
 
     #logo {
-        font-size: 280%;
+        font-size: 350%;
         line-height: 75px;
         margin: 0 0.5rem;
         color: #3a3a3a;
         text-align: center;
-        font-family: niconne, sans-serif;
+        font-family: smooch sans, sans-serif;
     }
 
     /* Main content*/
