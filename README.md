@@ -86,6 +86,27 @@ Typography:
 
 # Testing
 
+Manual testing:
+
+Navbar:
+* Home link - When the user clicks on the home link, they are taken to the home section. **Tested and Passed.**
+* Classes link - When the user clicks on the classes link, they are taken to the classes section. **Tested and Passed.**
+* Gallery link - When the user clicks on the gallery link, they are taken to the gallery section. **Tested and Passed.**
+* Contact link - When the user clicks on the contact link, they are taken to the contact section. **Tested and Passed.**
+
+Contact form:
+* Full name input - User enters name. If the user does not enter their name an error message appears. **Tested and Passed.**
+* Email input - User enters their email address. If the user does not enter their email address an error message appears. **Tested and Passed.**
+* Submit button - User clicks on the submit button. The user is redirected to "formdump.codeinstitute.net" in a new tab. **Tested and Passed.**
+
+Footer:
+* Facebook icon - User clicks the icon. The user is taken to the Facebook page in a new tab. **Tested and Passed.**
+* Twitter icon - User clicks the icon. The user is taken to the Twitter page in a new tab. **Tested and Passed.**
+* YouTube icon - User clicks the icon. The user is taken to the YouTube page in a new tab. **Tested and Passed.**
+* Instagram icon - User clicks the icon. The user is taken to the Instagram page in a new tab. **Tested and Passed.**
+
+
+
 # Bugs
 
 # Credits
