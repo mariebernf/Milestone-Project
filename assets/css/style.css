@@ -1,5 +1,5 @@
 /* Google fonts */
-<style>@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
+<style>@import url('https://fonts.googleapis.com/css2?family=Niconne&display=swap');
 </style>
 
 /* Asterisk Wildcard selector */
@@ -196,6 +196,7 @@ main {
         margin: 0 0.5rem;
         color: #3a3a3a;
         text-align: center;
+        font-family: niconne, sans-serif;
     }
 
     /* Main content*/
