@@ -68,6 +68,22 @@ Typography:
 
 # Technologies used
 
+* HTML was used for the structure and content of the website.
+
+* CSS was used for the styling of the website.
+
+* CSS flexbox was used to arrange content.
+
+* TinyPNG was used to compress images.
+
+* Gitpod was used to develop the website.
+
+* GitBash was the terminal used to push changes to the GitHub repository.
+
+* Github was used to host and deploy the website.
+
+
+
 # Testing
 
 # Bugs
