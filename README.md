@@ -42,6 +42,8 @@ Typography:
 
 ![Wireframe](assets/css/Documentation/wireframe.png)
 
+* The final design has evolved in different ways to improve user experience.
+  
 # Deployment
 
 # Technologies used
