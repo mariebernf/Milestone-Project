@@ -4,7 +4,7 @@
 
 The City Gym website is designed for users to easily navigate the website. It allows existing members and potential new members to find all the information they need.
   
-The link to City Gym website can found here: https://8000-mariebernf-milestonepro-qwi1y3a6ygt.ws.codeinstitute-ide.net/
+The link to City Gym website can found here: https://mariebernf.github.io/Milestone-Project/
 
 # User Experience
 
