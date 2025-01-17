@@ -9,6 +9,10 @@ The link to City Gym website can found here: https://mariebernf.github.io/Milest
 # User Experience
 
 # Design
+Color Scheme:
+
+![Color Palette] (assets/css/Documentation/PROJECT-1.png)
+
 
 # Wireframes
 
