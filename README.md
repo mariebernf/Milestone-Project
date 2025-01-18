@@ -123,6 +123,22 @@ Validator testing:
 
 # Bugs
 
+* Button Hover syntax error.  I had left a space between : and hover in the button:hover CSS rule.
+  Solution: I corrected the syntax by removing the extra space between the colon and hover.
+
+* There was an error in the syntax of the meta tag.
+  Solution: I corrected the syntax of the meta tag.
+
+* Error with a stray end tag.
+  Solution: I identified and removed the stray end.
+
+* I had some issues with the structure of my flexboxes and layout when I added content.
+  Solution: I adjusted the padding.
+  
+  In the future I will spend more time planning the wireframe for my project.
+
+
+
 # Credits
 
 * All images are from [Pexels](https://www.pexels.com/)
@@ -140,6 +156,6 @@ Validator testing:
 
 # Acknowledgments
 
-* I would like to thank my mentor, tutors and slack community.
+* I would like to thank my mentor for all her advice, tutor and the slack community.
 
 
