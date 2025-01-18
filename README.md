@@ -8,15 +8,15 @@ The link to City Gym website can found here: https://mariebernf.github.io/Milest
 
 # User Experience
 User stories:
-* As a new user and potential member. I want to be able to navigate the website and find information easily.
-* As a new user and potential member. I want to see what the gym as to offer.
-* As an existing member. I want to see what classes are available, so I can plan my fitness routine.
-* As an existing member. I want to see the dates and times of classes available, so I can plan my schedule.
-* As a new user and existing member. I want to see the benifits of membership.
+* As a new user and potential member, I want to be able to navigate the website and find information easily.
+* As a new user and potential member, I want to see what the gym as to offer.
+* As an existing member, I want to see what classes are available, so I can plan my fitness routine.
+* As an existing member, I want to see the dates and times of classes available, so I can plan my schedule.
+* As a new user and existing member, I want to see the benefits of membership.
 
 Website Aims:
 * To create a user friendly site where users can navigate easily and find out the information they need. This will be done with an easy to use navigation bar. With links to sections such as classes, gallery and contact.
-* To create a contact form for users if they need additional information.
+* To create a contact form for users who need additional information.
 * To highlight what classes are available.
 * To let users know the benefits of membership, such as classes are free to members.
 
@@ -119,6 +119,8 @@ Validator testing:
 
 ![Lighthouse](assets/css/Documentation/IMG_7723.jpg)
 
+Due to time constraints, I was unable to fully test the responsiveness of the design across all screen sizes and devices. 
+
 
 
 # Bugs
@@ -133,7 +135,7 @@ Validator testing:
   Solution: I identified and removed the stray end.
 
 * I had some issues with the structure of my flexboxes and layout when I added content.
-  Solution: I adjusted the padding.
+  Solution: I adjusted the padding but the layout still requires some adjustments.
   
   In the future I will spend more time planning the wireframe for my project.
 
