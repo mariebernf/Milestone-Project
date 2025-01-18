@@ -117,7 +117,7 @@ Validator testing:
 
 * Lighthouse
 
-![Lighthouse](assets/css/Documentation/lighthouse.jpg)
+![Lighthouse](assets/css/Documentation/IMG_7723.jpg)
 
 
 
