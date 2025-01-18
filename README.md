@@ -125,6 +125,21 @@ Validator testing:
 
 # Credits
 
+* All images are from [Pexels](https://www.pexels.com/)
+  
+* [Image 1](https://www.pexels.com/photo/fit-asian-man-exercising-with-dumbbell-in-gym-6550875/)
+* [Image 2](https://www.pexels.com/photo/photo-of-woman-using-earphones-3757954/)
+* [Image 3](https://www.pexels.com/photo/there-women-in-a-yoga-session-917732/)
+* [Image 4](https://www.pexels.com/photo/man-sitting-on-flat-bench-3490348/)
+
+* Fonts are from [Google Fonts](https://fonts.google.com/)
+
+* Images were compressed using [Tinypng](https://tinypng.com/)
+
+* The colour palette was created in [Coolors](https://coolors.co/)
+
 # Acknowledgments
+
+* I would like to thank my mentor, tutors and slack community.
 
 
