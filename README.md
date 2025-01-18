@@ -105,6 +105,20 @@ Footer:
 * YouTube icon - User clicks the icon. The user is taken to the YouTube page in a new tab. **Tested and Passed.**
 * Instagram icon - User clicks the icon. The user is taken to the Instagram page in a new tab. **Tested and Passed.**
 
+Validator testing:
+
+* HTML Tested by W3C validator:
+  
+  ![Htmlvalidator](assets/css/Documentation/vw3html.jpg)
+
+* CSS Tested by W3C (Jigsaw) validator:
+
+![CSSvalidator](assets/css/Documentation/cssw3v.jpg)
+
+* Lighthouse
+
+![Lighthouse](assets/css/Documentation/lighthouse.jpg)
+
 
 
 # Bugs
